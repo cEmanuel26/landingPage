@@ -15,6 +15,10 @@ header {
   color: #e5e7eb;
   padding: 0 300px 80px 300px;
 }
+a {
+  text-decoration: none;
+  color: #e5e7eb;
+}
 .header-top {
   display: flex;
   justify-content: space-between;
